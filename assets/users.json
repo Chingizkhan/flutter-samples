@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "first_name": "Konstantin",
+      "last_name": "Kokorin",
+      "website": "youtube.com"
+    },
+    {
+      "first_name": "Anna",
+      "last_name": "Volkova",
+      "website": "youtube.com"
+    },
+    {
+      "first_name": "Fedor",
+      "last_name": "Dogovich",
+      "website": "youtube.com"
+    },
+    {
+      "first_name": "Konstantin",
+      "last_name": "Kokorin",
+      "website": "youtube.com"
+    },
+    {
+      "first_name": "Konstantin",
+      "last_name": "Kokorin",
+      "website": "youtube.com"
+    }
+  ]
+}
